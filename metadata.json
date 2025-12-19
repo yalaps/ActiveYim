@@ -1,0 +1,8 @@
+
+{
+  "name": "FitForge - Smart Fitness Manager",
+  "description": "A comprehensive fitness management system featuring course exploration, trainer matching, and membership tracking with AI-powered recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
